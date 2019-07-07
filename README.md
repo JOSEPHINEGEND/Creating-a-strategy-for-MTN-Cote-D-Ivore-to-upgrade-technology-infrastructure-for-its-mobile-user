@@ -19,6 +19,6 @@ Moringa_Data_Science_Prep_W3_Independent_Project_2019_07_Josephine_Wanjiku_Pytho
 ## Support and contact details
 {Ideas, questions, and support can be sent to email: josephinewanjiku748@gmail.com}
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*{MIT}*
 Copyright (c) {2019} **{Moringa School Data Science}**
 
