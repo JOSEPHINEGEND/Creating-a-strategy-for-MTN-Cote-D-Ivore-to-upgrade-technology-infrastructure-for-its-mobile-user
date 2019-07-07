@@ -1,8 +1,8 @@
 # Moringa_Data_Science_Prep_W3_Independent_Project_2019_07_Josephine_Wanjiku_Python_Notebook
 Moringa_Data_Science_Prep_W3_Independent_Project_2019_07_Josephine_Wanjiku_Python_Notebook
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+# {Python Data Science Project}
+#### {Brief description of application}, {July, 2019}
+#### By **{Josephine Wanjiku}**
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## Setup/Installation Requirements
