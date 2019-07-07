@@ -4,12 +4,12 @@ Moringa_Data_Science_Prep_W3_Independent_Project_2019_07_Josephine_Wanjiku_Pytho
 #### {Brief description of application}, {July, 2019}
 #### By **{Josephine Wanjiku}**
 ## Description
-{This is a Python Programming project whose objective is to create a strategy for MTN Cote D'Ivore to upgrade its technology infrasture in Ivory Coast cities.}
+{This is a Python Programming project whose objective is to create a strategy for MTN Cote D'Ivore to upgrade its technology infrastructure in Ivory Coast cities.}
 ## Setup/Installation Requirements
 * Use Google Colab or Jupyter Notebook for data preparation and analysis.
 * Import pandas and Numpy libraries for data manipulation.
 * Loading datasets and previewing datasets.
-* Cleaning data; Remaning columns for uniformity, and dropping insignificant columns.
+* Cleaning data; Renaming columns for uniformity, and dropping insignificant columns.
 * Create a new column to separate data_time column
 ## Known Bugs
 {There are no data analyses steps done so far, any insights, tips and improvements are encouraged. }
